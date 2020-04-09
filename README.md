@@ -1,0 +1,2 @@
+# OCVideoAndController
+ijkplayer和相关控件的封装demo
